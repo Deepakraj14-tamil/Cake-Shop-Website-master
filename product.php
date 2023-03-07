@@ -144,7 +144,7 @@ function pre_r($array){
 <html>
     <head>
     <meta charset="utf-8">
-    <title>MALAKO | Details</title>
+    <title>Cake Zest | Details</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 

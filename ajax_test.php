@@ -7,10 +7,10 @@
 <html>
     <head>
     <meta charset="utf-8">
-    <title>MALAKO | Details</title>
+    <title>Cake Zest | Details</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!--========== PHP CONNECTION TO DATABASE: MALAKO ==========-->
+    <!--========== PHP CONNECTION TO DATABASE: Cake Zest ==========-->
     <?php 
         include_once 'connection.php';
         include_once 'numOfItemsInCart.php';

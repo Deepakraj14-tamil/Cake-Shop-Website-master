@@ -199,7 +199,7 @@
                                 <label class="col-md-4 control-label" ></label>  
                                 <div class="col-md-4">
                                     <button name="deleteAccount" class="btn btn-danger"><span class="glyphicon glyphicon-remove-sign"></span> Delete Account</button>
-                                    <span class=message"><?php echo "&nbsp&nbsp <b>$passwordMessage</b>";?></span>
+                                    <span class= "message"><?php echo "&nbsp&nbsp <b>$passwordMessage</b>";?></span>
                                 </div>
                             </div>
                         </div>

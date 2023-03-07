@@ -81,7 +81,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         
-        <title>MALAKO | Thank you!</title>
+        <title>Cake Zest | Thank you!</title>
 
 
         <!-- BOOTSTRAP CORE CSS -->
